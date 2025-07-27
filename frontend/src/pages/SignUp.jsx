@@ -80,7 +80,7 @@ const handleSignUp=async ()=>{
 <div className='md:w-[50%] h-full hidden lg:flex justify-center items-center bg-[#000000] flex-col gap-[10px] text-white text-[16px] font-semibold rounded-l-[30px] shadow-2xl shadow-black'>
 
 <img src={logo1} alt="" className='w-[40%]'/>
-<p >Not Just A Platform , It's A VYBE</p>
+<p >Not Just an App, It’s an Expression</p>
 </div>
       </div>
     </div>
